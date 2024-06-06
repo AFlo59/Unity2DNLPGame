@@ -44,3 +44,22 @@ crashlytics-build.properties
 
 # Ignore files related to Unity Collaboration (if you are not using Unity Teams)
 # [Cc]ollab/
+
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+### dotenv ###
+.env
+
