@@ -48,7 +48,7 @@ public class AzureAIManager : MonoBehaviour
             var requestBody = new
             {
                 prompt = prompt,
-                max_tokens = 60,
+                max_tokens = 80,
                 temperature = 0.7,
                 stop = new[] { "\n" }
             };
