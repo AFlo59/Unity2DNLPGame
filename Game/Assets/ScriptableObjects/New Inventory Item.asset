@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c8928d917d0cfa5a44556b407fba66, type: 3}
   m_Name: New Inventory Item
   m_EditorClassIdentifier: 
-  itemName: 
-  itemIcon: {fileID: 0}
+  itemName: Vitality potion
+  itemIcon: {fileID: 21300000, guid: 22c70f3b3b18d393187b5974dfd19b63, type: 3}
   itemType: 2
   itemCount: 10
   armorType: 0

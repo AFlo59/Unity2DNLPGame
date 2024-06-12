@@ -40394,11 +40394,11 @@ GameObject:
   - component: {fileID: 1229991459}
   - component: {fileID: 1229991458}
   - component: {fileID: 1229991465}
+  - component: {fileID: 1229991466}
   - component: {fileID: 1229991462}
   - component: {fileID: 1229991461}
   - component: {fileID: 1229991460}
   - component: {fileID: 1229991464}
-  - component: {fileID: 1229991466}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
