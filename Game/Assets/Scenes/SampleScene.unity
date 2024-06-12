@@ -39871,7 +39871,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 200705349}
   m_HandleRect: {fileID: 200705348}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -40415,6 +40415,7 @@ MonoBehaviour:
   inventoryPanel: {fileID: 993283070}
   scrollView: {fileID: 276778939}
   topPanel: {fileID: 1855056978}
+  searchField: {fileID: 661067086}
 --- !u!114 &993283076
 MonoBehaviour:
   m_ObjectHideFlags: 0
