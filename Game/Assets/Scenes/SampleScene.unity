@@ -980,6 +980,7 @@ MonoBehaviour:
   inventoryManager: {fileID: 1548854187}
   slotGenerator: {fileID: 1249681287}
   initialItems:
+  - {fileID: 11400000, guid: 72ff34d85779259979979cb2ffba41dc, type: 2}
   - {fileID: 11400000, guid: 11fbb58f3c5a14f649d4828495fb6a92, type: 2}
 --- !u!4 &265466857
 Transform:
@@ -39871,7 +39872,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 200705349}
   m_HandleRect: {fileID: 200705348}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -46841,8 +46842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb7704bb5940dc81bbd5df3419fa539e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inventorySlotPrefab: {fileID: 4872621443396519288, guid: f80455bdad7af661695a3db843472b4b, type: 3}
-  content: {fileID: 1249681284}
+  slotGenerator: {fileID: 1249681287}
   itemsToAdd:
   - {fileID: 11400000, guid: 11fbb58f3c5a14f649d4828495fb6a92, type: 2}
 --- !u!4 &1548854188
